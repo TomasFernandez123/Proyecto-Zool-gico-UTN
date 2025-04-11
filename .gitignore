@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+
+# Ignorar configuraciones del IDE
+.idea/
+*.iml
+
+# Ignorar compilados
+out/
+*.class
+
+# Ignorar archivos de NetBeans
+nbproject/
